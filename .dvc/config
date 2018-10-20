@@ -1,0 +1,4 @@
+['remote "myS3"']
+url = s3://examples-so/dataset-25K
+[core]
+remote = myS3
